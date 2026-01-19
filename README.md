@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Lakshay Kumar.<br><br>- 🔭 I’m an Under Graduate Student doing B. Tech in Information Technology.<br>- 📚 I'm currently learning Artificial Intelligence and Machine Learning.<br>- ⚡ In my free time I like to know about Photography, Cinematography, Artistic editing and more.</p>
+<p align="left">I'm Lakshay Kumar.<br><br>- 🔭 I’m a Machine Learning Engineer.<br>- 📚 I'm currently working in Supply Chain Demand forecasting.<br>- ⚡ In my free time I like to Sketch, dive deep into Cinematography.</p>
 
 ###
 
