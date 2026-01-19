@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Lakshay Kumar.<br><br>- 🔭 I’m a Machine Learning Engineer.<br>- 📚 I'm currently working in Supply Chain Demand forecasting.<br>- ⚡ In my free time I like to Sketch, dive deep into Cinematography.</p>
+<p align="left">I'm Lakshay Kumar.<br><br>- 🔭 I’m a Machine Learning Engineer.<br>- 📚 I'm currently working in Supply Chain Demand forecasting.<br>- ⚡ In my free time I like to Sketch, and dive deep into Cinematography.</p>
 
 ###
 
